@@ -26,9 +26,9 @@ I have obtained several certifications, which are available for download in this
 
 ## Badge
 
-- ![Google Cybersecurity Badge](./google-cybersecurity-certificate.png)
-
-Feel free to download and review the certificates to verify my qualifications and achievements.
+![Google Cybersecurity Badge](./google-cybersecurity-certificate.png)
 
 ---
-For any inquiries or further information, please [contact me](https://www.linkedin.com/in/mansoor-bukhari-77549a264/).
+
+## Contact
+- For any inquiries or further information, please [contact me](https://www.linkedin.com/in/mansoor-bukhari-77549a264/).
