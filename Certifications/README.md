@@ -26,7 +26,7 @@ I have obtained several certifications, which are available for download in this
 
 ## Badge
 
-- ![Google Cybersecurity Badge](./google-cybersecurity-certificate.png)
+![Google Cybersecurity Badge](./google-cybersecurity-certificate.png)
 
 ---
 
